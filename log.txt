@@ -1,0 +1,11 @@
+commit ef731cf059ca8a276098e8ad8901d3c7993532d1
+Author: Gleb Mashkanov <gleb.mashkanov@gmail.com>
+Date:   Thu Feb 8 21:51:12 2018 +0300
+
+    added status.txt
+
+commit 349d99c2e08e18a0112a4662b65787e5912b3b42
+Author: Gleb Mashkanov <gleb.mashkanov@gmail.com>
+Date:   Thu Feb 8 21:47:41 2018 +0300
+
+    add gitignore
