@@ -1,0 +1,95 @@
+body {
+    background-image: url('backgroundImage.jpg');
+    background-attachment: fixed;
+    background-size:cover;
+}
+
+table {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    position: fixed;
+}
+
+#Glebagram {
+    font-size: 280%;
+    font-family: Helvetica;
+}
+
+#Search {
+    text-align: left;
+    border-radius: 8px;
+}
+
+#loggedAs {
+    text-align: left;
+    font-family: Calibri;
+    font-size: 15px;
+}
+
+
+#cameraIcon {
+    background-image: none;
+}
+
+#cameraIcon:active {
+    background-color: maroon;
+    box-shadow: 0 5px maroon;
+    transform: translateY(4px);
+}
+
+.rectangle {
+    width:60%;
+    height:85%;
+    border:1px
+    solid #000;
+    border-style:solid;
+    border-color: black;
+    position: fixed;
+    margin-top: 4%;
+    margin-left: 21%;
+
+}
+
+#homeIcon {
+    margin-left: 3%;
+    margin-top: 2%;
+}
+
+#clockIcon {
+    margin-top: -2.32%;
+    margin-left: 8%;
+}
+
+#peoplesIcon {
+    margin-top: -2.35%;
+    margin-left: 13%;
+}
+
+#settingsIcon {
+    margin-top: -2.35%;
+    margin-left: 94.7%;
+}
+
+.photo1WithInfo {
+    margin-top: 0%;
+    margin-left: 12%;
+}
+
+#Description {
+    float: left;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
